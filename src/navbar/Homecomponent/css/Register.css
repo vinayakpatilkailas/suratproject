@@ -1,0 +1,122 @@
+.registration{
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(30, 172, 162, 0.49);
+    border-radius: 20px;
+    margin-bottom: 50px;
+
+}
+.register1{
+    margin-left:150px;
+    font-size: 39px;
+    padding: 30px;
+    color: whitesmoke;
+}
+
+.label1{
+    font-size: 15px;
+   margin-left: 117px;
+}
+.label2{
+    font-size: 15px;
+    margin-left: 150px;
+    
+}
+.label3{
+    font-size: 15px;
+    margin-left: 110px;
+}
+.label4{
+    font-size: 15px;
+    margin-left: 110px;
+}
+.label5{
+    font-size: 15px;
+    margin-left: 100px;
+}
+.label6{
+    font-size: 15px;
+    margin-left: 145px;
+}
+.label7{
+    font-size: 15px;
+    margin-left: 118px;
+}
+.gender{
+    font-size: 18px;
+    position: absolute;
+    left: 500px;
+}
+.gender1{
+    
+    font-size: 19px;
+    position: absolute;
+    left: 500px;
+    top: 635px;
+
+
+}
+.radio{
+   position: absolute;
+   top: 0px;
+   left: 30px;
+   font-size: px;
+
+}
+.gender2{
+    
+    font-size: 19px;
+    position: absolute;
+    left: 660px;
+    bottom: 100px;
+    top: 635px;
+}
+.radio2{
+    position: absolute;
+    top: 0px;
+    left: 30px;
+}
+  
+   
+   
+
+input{
+    height: 30px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 60%;
+    padding-left: 5px;
+
+}
+.btn1{
+    height: 40px;
+    width: 150px;
+    color: whitesmoke;
+    margin-left: 250px;
+    background-color: rgba(215, 20, 20, 0.773);
+    margin-bottom: 50px;
+    margin-top: 50px;
+    cursor: pointer;
+
+}
+::-webkit-scrollbar {
+    width: 7px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgba(128, 128, 128, 0.112); 
+    border-radius: 5px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(215, 75, 75); 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #331313; 
+  }
